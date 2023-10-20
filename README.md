@@ -16,9 +16,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="30" height="45"/> </a> 
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="30" height="45"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png" alt="html5" width="30" height="45"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" alt="java" width="30" height="45"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" alt="java" width="30" height="45"/> </a> 
+  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="python" width="37" height="37"/> </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
+  
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanxnyx&show_icons=true&locale=en&layout=compact" alt="tanxnyx" /></p>
 
