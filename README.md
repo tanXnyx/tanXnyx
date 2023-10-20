@@ -16,7 +16,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="30" height="45"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png" alt="html5" width="30" height="45"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" alt="java" width="30" height="45"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanxnyx&show_icons=true&locale=en&layout=compact" alt="tanxnyx" /></p>
 
