@@ -7,7 +7,7 @@
 - 📫 How to reach me **tanmay766745@gmail.com**
 
 - ⚡ Fun fact **I LOVE CODING**
-- [![An image of @tanxnyx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxnyx)](https://holopin.io/@tanxnyx)
+[![An image of @tanxnyx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanxnyx)](https://holopin.io/@tanxnyx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
